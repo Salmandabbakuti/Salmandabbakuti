@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman</h1>
-<h3 align="center">A Fascinated Coder & Blockchain Developer -Contributing to Ethereum and Hyperledger Fabric</h3>
+<h3 align="center">A Fascinated Coder & Blockchain Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmandabbakuti" alt="salmandabbakuti" /> </p>
 
 - 🔭 I’m currently working on **Blockchain**
