@@ -35,3 +35,5 @@
 <a href="https://fb.com/dabbakuti.salmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dabbakuti.salmon" height="20" width="20" /></a>
 <a href="https://medium.com/@Salmandabbakuti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="salmandabbakuti" height="20" width="20" /></a>
 </p>
+
+<!-- Note: Some logos I've used here are a trademark logos of the respective Companies.-->
