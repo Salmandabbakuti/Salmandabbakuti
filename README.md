@@ -1,4 +1,8 @@
-![My-Banner](https://github.com/Salmandabbakuti/Salmandabbakuti/blob/master/assets/mybanner.gif)
+![My-Banner](https://github.com/Salmandabbakuti/Salmandabbakuti/blob/master/assets/mybanner.gif)\
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmandabbakuti" alt="salmandabbakuti" /> </p>
+
+- 🔭 I’m currently working on **Blockchain**
 
 - 👯 I’m looking to collaborate on **Opensource Blockchain Projects**
 
