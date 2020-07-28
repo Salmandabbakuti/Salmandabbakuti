@@ -1,4 +1,4 @@
-![My-Banner](https://github.com/Salmandabbakuti/Salmandabbakuti/blob/patch/assets/banner.png)
+![My-Banner](https://github.com/Salmandabbakuti/Salmandabbakuti/blob/master/assets/banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmandabbakuti" alt="salmandabbakuti" /> </p>
 
