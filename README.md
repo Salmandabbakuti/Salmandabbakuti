@@ -1,18 +1,20 @@
 ![My-Banner](https://github.com/Salmandabbakuti/Salmandabbakuti/blob/master/assets/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmandabbakuti" alt="salmandabbakuti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmandabbakuti" alt="salmandabbakuti" /> 
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Followers&query=followers&url=https://api.github.com/users/Salmandabbakuti" alt="followers" /></p>
 
 - 🔭 I’m currently working on **Blockchain**
 
 - 👯 I’m looking to collaborate on **Opensource Blockchain Projects**
 
-- 👨‍💻 All of my projects are available at [https://salmandabbakuti.github.io](https://salmandabbakuti.github.io)
+- 👨‍💻 All of my projects are available at - [https://salmandabbakuti.github.io](https://salmandabbakuti.github.io)
 
-- 📝 I regulary write articles on [https://medium.com/@Salmandabbakuti](https://medium.com/@Salmandabbakuti)
+- 📝 I regulary write articles on - [https://medium.com/@Salmandabbakuti](https://medium.com/@Salmandabbakuti)
 
-- 💬 Ask me about **Blockchain Stuffs**
+- 💬 Ask me about **Blockchain & Cloud Stuffs**
 
-- 📫 How to reach me **dabbakuti.salman@gmail.com**
+- 📫 Reach me on : 
+[![Mail](https://img.shields.io/badge/-dabbakuti.salman@gmail.com-gray?style=flat&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/salman-dabbakuti-400479135/)](mailto:dabbakuti.salman@gmail.com)
 
 - ⚡ Fun fact **I know all Programming Memes🤩**
 
