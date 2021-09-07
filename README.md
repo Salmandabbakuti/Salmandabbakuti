@@ -1,5 +1,5 @@
 <!-- Banner-->
-![Metrics](https://github.com/Salmandabbakuti/Salmandabbakuti/blob/metrics/github-metrics.svg)
+![Metrics](https://github.com/Salmandabbakuti/Salmandabbakuti/blob/master/github-metrics.svg)
 
 <!-- Badges-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmandabbakuti" alt="salmandabbakuti" /> 
