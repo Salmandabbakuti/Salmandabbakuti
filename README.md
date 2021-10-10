@@ -7,15 +7,17 @@
 
 <!-- Summary/Portfolio-->
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working on **Backend & Blockchain**
+
+- 🌱 I’m currently learning Reactjs
 
 - 👯 I’m looking to collaborate on **Opensource Blockchain Projects**
 
 - 👨‍💻 All of my projects are available at - [https://salmandabbakuti.github.io](https://salmandabbakuti.github.io)
 
-- 📝 I regulary write articles on - [Medium](https://salmandabbakuti.medium.com)
+- 📝 I occasionally write articles on - [Medium](https://salmandabbakuti.medium.com)
 
-- 💬 Ask me about **Blockchain & Cloud Stuffs**
+- 💬 Ask me about **Blockchain, Nodejs, GraphQL & Cloud Stuffs**
 
 - 📫 Reach me on : 
 [![Mail](https://img.shields.io/badge/-dabbakuti.salman@gmail.com-gray?style=flat&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/salman-dabbakuti-400479135/)](mailto:dabbakuti.salman@gmail.com)
