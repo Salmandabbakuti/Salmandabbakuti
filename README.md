@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Backend & Blockchain**
 
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning **Reactjs**
 
 - 👯 I’m looking to collaborate on **Opensource Blockchain Projects**
 
