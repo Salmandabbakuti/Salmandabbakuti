@@ -15,18 +15,6 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_topics: yes
-          plugin_topics_sort: stars    # Sort by most starred topics
-          plugin_topics_mode: icons    # Display icons instead of labels
-          plugin_topics_limit: 0
           plugin_followup: yes
-          plugin_achievements: yes
-          plugin_achievements_threshold: B      # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes      # Display unlocked secrets achievements
-          plugin_achievements_display: compact  # Use compact display
-          plugin_achievements_limit: 0 
           plugin_followup_sections: repositories, user
           token: ${{ secrets.METRICS_TOKEN }}
