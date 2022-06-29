@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Backend & Blockchain**
 
-- 🌱 I’m currently learning **The Graph**
+- 🌱 I’m currently learning **Smartcontract Security & Audits**
 
 - 👯 I’m looking to collaborate on **Opensource Blockchain Projects**
 
@@ -17,7 +17,7 @@
 
 - 📝 I occasionally write articles on - [Medium](https://salmandabbakuti.medium.com)
 
-- 💬 Ask me about **Blockchain, Nodejs, GraphQL & Cloud Stuffs**
+- 💬 Ask me about **Blockchain, Nodejs, APIs, React, GraphQL & Cloud Stuffs**
 
 - 📫 Reach me on : 
 [![Mail](https://img.shields.io/badge/-dabbakuti.salman@gmail.com-gray?style=flat&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/salman-dabbakuti-400479135/)](mailto:dabbakuti.salman@gmail.com)
@@ -27,19 +27,25 @@
 <!--Top Languages and Technologies-->
 
 <p align="center">
-<img src="https://cdn.svgporn.com/logos/ethereum.svg" alt="ethereum" width="40" height="40"/>
-<img src="https://learn.figment.io/images/protocols/svg/color/thegraph.svg" alt="The Graph" width="55" height="36"/>
-<img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="hyperledger" width="40" height="40"/>
-<img src="https://status.xooa.com/kt6Eed6xNvSV" alt="xooa" width="45" height="20"/>
- <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/google-cloud.svg" alt="google cloud" width="40" height="40"/> 
-<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://ethereum.org/en" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/ethereum.svg" alt="ethereum" width="40" height="40"/></a>
+<a href="https://thegraph.com/" target="_blank" rel="noreferrer"><img src="https://learn.figment.io/images/protocols/svg/color/thegraph.svg" alt="The Graph" width="55" height="36"/></a>
+<a href="https://www.hyperledger.org/use/fabric" target="_blank" rel="noreferrer"><img src="https://landscape.hyperledger.org/logos/hyperledger-fabric.svg" alt="hyperledger fabric" width="70" height="40"/></a>
+<a href="https://xooa.com" target="_blank" rel="noreferrer"><img src="https://status.xooa.com/kt6Eed6xNvSV" alt="xooa" width="45" height="20"/></a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/google-cloud.svg" alt="google cloud" width="40" height="40"/></a>
+<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<img src="https://cdn.svgporn.com/logos/prisma.svg" alt="Prisma" width="40" height="40"/>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://prisma.io" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/prisma.svg" alt="Prisma" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
    <!--GitHub Stats-->
   
