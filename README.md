@@ -24,6 +24,11 @@
 
 - ⚡ Fun fact **I know all Programming Memes🤩**
 
+
+##### 😂 Here is a random joke for you today
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!--Top Languages and Technologies-->
 
 <p align="center">
