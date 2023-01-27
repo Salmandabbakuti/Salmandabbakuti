@@ -23,8 +23,8 @@
 [![Mail](https://img.shields.io/badge/-dabbakuti.salman@gmail.com-gray?style=flat&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/salman-dabbakuti-400479135/)](mailto:dabbakuti.salman@gmail.com)
 
 - ⚡ Fun fact **I know all Programming Memes🤩**
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt) -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--Top Languages and Technologies-->
 
