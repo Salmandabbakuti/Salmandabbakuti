@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Metrics](https://github.com/Salmandabbakuti/Salmandabbakuti/blob/master/github-metrics.svg)
 <!-- Gitroll Badge-->
-<a href="https://gitroll.io/profile/u7m74tQi2l3dUnx3cvY178YZh3f62" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7m74tQi2l3dUnx3cvY178YZh3f62" alt="GitRoll Profile Badge"/></a>
+<!-- <a href="https://gitroll.io/profile/u7m74tQi2l3dUnx3cvY178YZh3f62" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7m74tQi2l3dUnx3cvY178YZh3f62" alt="GitRoll Profile Badge"/></a> -->
 
 <!-- Badges -->
 <p align="left">
